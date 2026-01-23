@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<settings>
+  <run_mode>eigenvalue</run_mode>
+  <particles>1000</particles>
+  <batches>4</batches>
+  <inactive>1</inactive>
+  <source particle="neutron" strength="1.0" type="independent">
+    <space origin="0.0 0.0 0.0" type="spherical">
+      <r parameters="47.130410150344 60.73682513897073 2" type="powerlaw"/>
+      <cos_theta parameters="-1.0 1.0" type="uniform"/>
+      <phi parameters="0.0 6.283185307179586" type="uniform"/>
+    </space>
+  </source>
+</settings>
