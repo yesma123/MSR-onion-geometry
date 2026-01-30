@@ -1,31 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <geometry>
-  <cell id="43" material="14" region="-43" universe="4"/>
-  <cell id="44" material="14" region="50 -51" universe="4"/>
-  <cell id="45" material="15" region="43 -44" universe="4"/>
-  <cell id="46" material="15" region="45 -46" universe="4"/>
-  <cell id="47" material="15" region="47 -48" universe="4"/>
-  <cell id="48" material="15" region="49 -50" universe="4"/>
-  <cell id="49" material="15" region="51 -52" universe="4"/>
-  <cell id="50" material="void" region="44 -45" universe="4"/>
-  <cell id="51" material="void" region="48 -49" universe="4"/>
-  <cell id="52" material="void" region="52 -53" universe="4"/>
-  <cell id="53" material="13" region="46 -47" universe="4"/>
-  <cell id="54" material="16" region="54 -55" universe="4"/>
-  <cell id="55" material="15" region="53 -54" universe="4"/>
-  <cell id="56" material="15" region="55 -56" universe="4"/>
-  <surface coeffs="0.0 0.0 0.0 44.130410150344" id="43" type="sphere"/>
-  <surface coeffs="0.0 0.0 0.0 44.630410150344" id="44" type="sphere"/>
-  <surface coeffs="0.0 0.0 0.0 46.630410150344" id="45" type="sphere"/>
-  <surface coeffs="0.0 0.0 0.0 47.130410150344" id="46" type="sphere"/>
-  <surface coeffs="0.0 0.0 0.0 60.73682513897073" id="47" type="sphere"/>
-  <surface coeffs="0.0 0.0 0.0 61.23682513897073" id="48" type="sphere"/>
-  <surface coeffs="0.0 0.0 0.0 63.23682513897073" id="49" type="sphere"/>
-  <surface coeffs="0.0 0.0 0.0 63.73682513897073" id="50" type="sphere"/>
-  <surface coeffs="0.0 0.0 0.0 96.1603570591178" id="51" type="sphere"/>
-  <surface coeffs="0.0 0.0 0.0 96.6603570591178" id="52" type="sphere"/>
-  <surface coeffs="0.0 0.0 0.0 98.6603570591178" id="53" type="sphere"/>
-  <surface coeffs="0.0 0.0 0.0 99.1603570591178" id="54" type="sphere"/>
-  <surface coeffs="0.0 0.0 0.0 119.14247144741795" id="55" type="sphere"/>
-  <surface boundary="vacuum" coeffs="0.0 0.0 0.0 119.64247144741795" id="56" type="sphere"/>
+  <cell id="1" material="6" region="-15" universe="1"/>
+  <cell id="2" material="6" region="22 -23" universe="1"/>
+  <cell id="3" material="7" region="15 -16" universe="1"/>
+  <cell id="4" material="7" region="17 -18" universe="1"/>
+  <cell id="5" material="7" region="19 -20" universe="1"/>
+  <cell id="6" material="7" region="21 -22" universe="1"/>
+  <cell id="7" material="7" region="23 -24" universe="1"/>
+  <cell id="8" material="void" region="16 -17" universe="1"/>
+  <cell id="9" material="void" region="20 -21" universe="1"/>
+  <cell id="10" material="void" region="24 -25" universe="1"/>
+  <cell id="11" material="5" region="18 -19" universe="1"/>
+  <cell id="12" material="8" region="26 -27" universe="1"/>
+  <cell id="13" material="7" region="25 -26" universe="1"/>
+  <cell id="14" material="7" region="27 -28" universe="1"/>
+  <surface coeffs="0.0 0.0 0.0 44.130410150344" id="15" type="sphere"/>
+  <surface coeffs="0.0 0.0 0.0 44.630410150344" id="16" type="sphere"/>
+  <surface coeffs="0.0 0.0 0.0 46.630410150344" id="17" type="sphere"/>
+  <surface coeffs="0.0 0.0 0.0 47.130410150344" id="18" type="sphere"/>
+  <surface coeffs="0.0 0.0 0.0 60.73682513897073" id="19" type="sphere"/>
+  <surface coeffs="0.0 0.0 0.0 61.23682513897073" id="20" type="sphere"/>
+  <surface coeffs="0.0 0.0 0.0 63.23682513897073" id="21" type="sphere"/>
+  <surface coeffs="0.0 0.0 0.0 63.73682513897073" id="22" type="sphere"/>
+  <surface coeffs="0.0 0.0 0.0 96.1603570591178" id="23" type="sphere"/>
+  <surface coeffs="0.0 0.0 0.0 96.6603570591178" id="24" type="sphere"/>
+  <surface coeffs="0.0 0.0 0.0 98.6603570591178" id="25" type="sphere"/>
+  <surface coeffs="0.0 0.0 0.0 99.1603570591178" id="26" type="sphere"/>
+  <surface coeffs="0.0 0.0 0.0 119.14247144741795" id="27" type="sphere"/>
+  <surface boundary="vacuum" coeffs="0.0 0.0 0.0 119.64247144741795" id="28" type="sphere"/>
 </geometry>
